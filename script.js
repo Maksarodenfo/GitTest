@@ -1,1 +1,2 @@
-document.write("Script is work!")
+document.write("Script is work!");
+alert("Hello world!")
